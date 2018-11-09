@@ -1,0 +1,24 @@
+{
+  "name": "alan/yii2-redis-connection",
+  "description": "yii2 frame redis go away",
+  "license": "MIT",
+  "keywords": [
+    "yii2",
+    "redis away"
+  ],
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "alan",
+      "email": "wzzjjboy@126.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.5"
+  },
+  "autoload": {
+    "psr-0": {
+      "alan\\yii2\\redis": "src/"
+    }
+  }
+}
